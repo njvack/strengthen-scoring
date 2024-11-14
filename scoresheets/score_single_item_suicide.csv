@@ -1,0 +1,5 @@
+layout,header,,,
+layout,data,,,
+,,,,
+score,webscreen_id,,,id
+score,single_item_suicide_q,,,sr_{short_event}_singleItemSuicide_considerAttempt

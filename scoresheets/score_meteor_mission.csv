@@ -1,0 +1,7 @@
+layout,header,,,
+layout,data,,,
+,,,,
+score,webscreen_id,,,id
+score,meteor_distraction,,,sr_{short_event}_meteor_distraction
+score,meteor_distraction_explain,,,sr_{short_event}_meteor_distractionExplain
+score,meteor_trouble,,,qi_{short_event}_meteor_trouble

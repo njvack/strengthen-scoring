@@ -1,0 +1,8 @@
+layout,header,,,
+layout,data,,,
+,,,,
+score,webscreen_id,,,id
+score,trk_enrollment_status,,,admin_{short_event}_enrollment_enrollmentStatus
+score,group_assigned,,,admin_{short_event}_enrollment_groupAssigned
+score,sched_sprint,,,admin_{short_event}_enrollment_sprintAssigned
+score,subject_id,,,admin_{short_event}_enrollment_subjectId

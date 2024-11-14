@@ -1,0 +1,12 @@
+layout,header,,,,,
+layout,data,,,,,
+,,,,,,
+score,webscreen_id,,,id,,
+score,nih_loneliness_q01,lonely,,,,I feel alone and apart from others. -- 1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Usually; 5 = Always 
+score,nih_loneliness_q02,lonely,,,,I feel left out. -- 1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Usually; 5 = Always 
+score,nih_loneliness_q03,lonely,,,,I feel that I am no longer close to anyone. -- 1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Usually; 5 = Always 
+score,nih_loneliness_q04,lonely,,,,I feel alone. -- 1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Usually; 5 = Always 
+score,nih_loneliness_q05,lonely,,,,I feel lonely. -- 1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Usually; 5 = Always 
+,,,,,,
+measure,sr_{short_event}_nihtl_lonely,mean_imputed(lonely),,,,
+measure,sr_{short_event}_nihtl_lonelyIF,imputed_fraction(lonely),,,,

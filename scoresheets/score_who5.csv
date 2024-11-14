@@ -1,0 +1,13 @@
+﻿layout,header,,,
+layout,data,,,
+,,,,
+score,webscreen_id,,,id
+score,who5_q01,who5,,
+score,who5_q02,who5,,
+score,who5_q03,who5,,
+score,who5_q04,who5,,
+score,who5_q05,who5,,
+,,,,
+,,,,
+measure,sr_{short_event}_who5_wellBeing,sum_imputed(who5),,
+measure,sr_{short_event}_who5_wellBeingIF,imputed_fraction(who5),,

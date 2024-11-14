@@ -1,0 +1,10 @@
+﻿layout,header,,,
+layout,data,,,
+,,,,
+score,webscreen_id,,,id
+score,srs_total_missing_increase_risk,,,sr_{short_event}_srs_missingIncreaseRisk
+score,srs_total_missing_decrease_risk,,,sr_{short_event}_srs_missingDecreaseRisk
+score,srs_total_missing,,,sr_{short_event}_srs_missing
+score,srs_risk_score_sum,,,sr_{short_event}_srs_suicideRiskScore
+score,srs_predicted_probability,,,sr_{short_event}_srs_suicidePredictedProbability
+score,srs_risk_category,,,sr_{short_event}_srs_suicideRiskCategory

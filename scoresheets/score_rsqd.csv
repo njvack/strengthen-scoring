@@ -1,0 +1,21 @@
+layout,header,,,
+layout,data,,,
+,,,,
+transform,reverse,"map(1:5, 5:1)",,
+,,,,
+score,webscreen_id,,,id
+score,rsqd_wake_up_time,,,sr_{short_event}_rsqd_wakeUpTime
+score,rsqd_current_time,,,sr_{short_event}_rsqd_currentTime
+score,rsqd_q01,rsqd,reverse,
+score,rsqd_q02,rsqd,reverse,
+score,rsqd_q03,rsqd,,
+score,rsqd_q04,rsqd,,
+score,rsqd_q05,rsqd,,
+score,rsqd_q06,rsqd,,
+score,rsqd_q07,rsqd,,
+score,rsqd_q08,rsqd,,
+score,rsqd_q09,rsqd,reverse,
+score,sdq_q1,,,sr_{short_event}_sdq_sleepDepth
+,,,,
+measure,sr_{short_event}_rsqd_restorativeSleep,mean_imputed(rsqd),,
+measure,sr_{short_event}_rsqd_restorativeSleepIF,imputed_fraction(rsqd),,
