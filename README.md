@@ -15,7 +15,7 @@ score_multi /path/to/multiscore.csv \
     /path/to/scored_data/{short_event}_{scoresheet}.csv
 ```
 
-and that will produce one output file per row in the multiscore config file.
+and that will produce one output file per row in `multiscore.csv`.
 
 See the scorify documentation and `score_multi -h` for more help, email Nate Vack <njvack@wisc.edu>, or post to the [scorify discussion groups](https://github.com/uwmadison-chm/scorify/discussions).
 ```
