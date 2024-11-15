@@ -17,6 +17,6 @@ score_multi /path/to/multiscore.csv \
 
 and that will produce one output file per row in `multiscore.csv`.
 
-See the scorify documentation and `score_multi -h` for more help, email Nate Vack <njvack@wisc.edu>, or post to the [scorify discussion groups](https://github.com/uwmadison-chm/scorify/discussions).
+See the scorify documentation and `score_multi -h` for more help, email [Nate Vack](mailto:njvack@wisc.edu) , or post to the [scorify discussion groups](https://github.com/uwmadison-chm/scorify/discussions).
 ```
 ```
